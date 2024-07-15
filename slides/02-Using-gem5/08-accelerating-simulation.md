@@ -5,7 +5,7 @@ theme: gem5
 title: Accelerating gem5 simulations
 ---
 
-<!-- _class: title -->
+<!-- _class: title heyyy -->
 
 ## Accelerating gem5 simulations
 
